@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radial-blue {
+    background: radial-gradient(white,lightblue)
+}
+.min-w-half{
+    min-width: 50%;
+}
